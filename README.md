@@ -20,15 +20,15 @@ Fecha entrega: 06 de Noviembre del 2023 <br> <br>
 # Resultado de la Practica 14
 
 <div style="display: flex; justify-content:">
- <img align="left" src="images/7.jpg?raw=true" alt="Imagen 1" width="200";/>
-<img align="left" src="images/1.jpg?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="images/2.jpg?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="images/3.jpg?raw=true" alt="Imagen 2"  width="200" />
+ <img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (1).jpeg?raw=true" alt="Imagen 1" width="200";/>
+<img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (2).jpeg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (3).jpeg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (4).jpeg?raw=true" alt="Imagen 2"  width="200" />
 </div>
 
 <div style="display: flex; justify-content:">
-<img align="left" src="images/4.jpg?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="images/5.jpg?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="images/6.jpg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (5).jpeg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (6).jpeg?raw=true" alt="Imagen 2"  width="200" />
+
 
 </div>
