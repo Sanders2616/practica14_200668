@@ -8,7 +8,13 @@ UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo Movil Integral <br>
 200668_Sandra Aguilar Santos<br>
 PRÁCTICA 14: Implementación de navegación entre Series de TV y Películas. <br>
-Descripción:En esta práctica de desarrollo de aplicaciones con Flutter, se crea un catálogo de películas y series de TV que utiliza una API externa para obtener datos. La aplicación presenta una interfaz de usuario con un menú lateral que permite la navegación entre las secciones de "Películas" y "Series de TV". Se integra con una API de películas y series, lo que permite mostrar información relevante, como títulos, imágenes y descripciones. La navegación entre las pantallas se logra a través del menú lateral, ofreciendo a los usuarios la posibilidad de explorar y ver detalles adicionales de películas y series. El manejo de estado y la personalización de la aplicación son aspectos clave en esta práctica. <br>
+Descripción:En esta práctica de desarrollo de aplicaciones con Flutter, se ha logrado la creación exitosa de un catálogo de películas y series de televisión que hace uso de una API externa para la obtención de datos. La aplicación final resultante presenta a los usuarios una interfaz de usuario intuitiva con un menú lateral que facilita la navegación entre las secciones de "Películas" y "Series de TV".
+
+Los actores principales que participaron en este proyecto incluyen a los desarrolladores de la aplicación, quienes desempeñaron un papel crucial en el diseño y desarrollo de la aplicación. Fueron responsables de la integración de la API de películas y series, la gestión del estado de la aplicación y la personalización para satisfacer los requisitos específicos.
+
+La API de películas y series también desempeñó un papel esencial al proporcionar datos clave, como títulos, imágenes y descripciones, que enriquecieron el contenido del catálogo. Esto permitió a los usuarios acceder a información detallada sobre las películas y series que deseaban explorar.
+
+Por último, los usuarios finales son los beneficiarios de esta práctica, ya que disfrutan de la aplicación resultante, que les brinda una experiencia de usuario amigable y les permite explorar y descubrir películas y series de televisión de manera eficiente y personalizada. La navegación fluida proporcionada por el menú lateral facilita la exploración y la visualización de detalles adicionales, lo que hace que la aplicación sea atractiva y funcional. <br>
 Fecha entrega: 06 de Noviembre del 2023 <br> <br>
 
 # Resultado de la Practica 14
